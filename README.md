@@ -35,8 +35,3 @@ ________________________________________________________________________________
    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a> &nbsp;
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
 </p
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-
