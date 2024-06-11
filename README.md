@@ -1,16 +1,15 @@
-
 **Hi 👋, I'm Bita Sadeghi**
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **A passionate full-stack developer**
 
-- 🔭 I’m currently learning Web-developmen.
-- 🌱 I’m learning something new because this is developer life.
+- 🔭 I’m currently learning Web-development.
+- 🌱 I’m always up for learning new things because that's the developer life.
 - 📫 How to reach me: bita.s9170@gmail.com 
-[ linkedin.com/in/bita-sadeghi-
-584bb8288](https://www.linkedin.com/in/bita-sadeghi-584bb8288/)
+<a href="https://www.linkedin.com/in/bita-sadeghi-584bb8288/"><img src="https://img.icons8.com/fluency/24/000000/linkedin.png"/></a>
 
 - 😄 Pronouns: Bita
+
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"><strong><h3>Skills and Tools</h3></strong></p>
